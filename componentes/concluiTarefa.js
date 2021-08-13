@@ -3,9 +3,11 @@ const BotaoConclui = () => {
 
     botaoConclui.classList.add('check-button')
     botaoConclui.innerText = 'concluir'
+
     botaoConclui.addEventListener('click', concluirTarefa)
 
     return botaoConclui
+
 }
 
 const concluirTarefa = (evento) => {

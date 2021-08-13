@@ -15,6 +15,7 @@ const deletarTarefa = (evento) => {
     tarefaCompleta.remove()
 
     return botaoDeleta
+
 }
 
 export default BotaoDeleta
