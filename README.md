@@ -14,6 +14,9 @@
 - Manipulate the DOM to change, add, remove and create new elements in the object tree
 - Work with componentization to facilitate project organization
 - Use Javascript module system to protect files
+- Local storage API 
+- Manipulate Local Storage to save data
+- Work with dates in JavaScript
 
 ## Built With
 
